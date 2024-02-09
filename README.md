@@ -88,7 +88,7 @@ En general, cada elección técnica se basó en la eficiencia, la claridad del c
 Asegúrate de tener [Node.js](https://nodejs.org/) instalado en tu máquina.
 
 1. Clona este repositorio:
-  git clone git clone https://tu-repositorio.git
+  git clone https://tu-repositorio.git](https://github.com/Sergiobasstidas/prueba-tecnica-react
 
 3. Navega al directorio del proyecto
    cd game-of-thrones-books-explorer
