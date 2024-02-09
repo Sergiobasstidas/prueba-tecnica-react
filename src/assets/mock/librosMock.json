@@ -1,0 +1,146 @@
+{ "librosMock" : [
+  {
+    "id": 0,
+    "pais": "United States",
+    "autor": "George R. R. Martin",
+    "isbn": "978-0553103540",
+    "name": "A Game of Thrones",
+    "nroPaginas": 694,
+    "released": "1996-08-01T00:00:00",
+    "sinopsis": "Sinopsis de A Game of Thrones...",
+    "calificacionUsuarios": 4.5,
+    "img":  "/src/assets/mock/agameofthrones.jpg"
+  },
+  {
+    "id": 1,
+    "pais": "United States",
+    "autor": "George R. R. Martin",
+    "isbn": "978-0553108033",
+    "name": "A Clash of Kings",
+    "nroPaginas": 768,
+    "released": "1999-02-02T00:00:00",
+    "sinopsis": "Sinopsis de A Clash of Kings...",
+    "calificacionUsuarios": 4.8,
+    "img": "/src/assets/mock/aclashofkings.jpg"
+  },
+  {
+    "id": 2,
+    "pais": "United States",
+    "autor": "George R. R. Martin",
+    "isbn": "978-0553106633",
+    "name": "A Storm of Swords",
+    "nroPaginas": 992,
+    "released": "2000-10-31T00:00:00",
+    "sinopsis": "Sinopsis de A Storm of Swords...",
+    "calificacionUsuarios": 4.6,
+    "img": "/src/assets/mock/astormofswords.jpg"
+  },
+  {
+    "id": 3,
+    "pais": "United States",
+    "autor": "George R. R. Martin",
+    "isbn": "978-0976401100",
+    "name": "The Hedge Knight",
+    "nroPaginas": 164,
+    "released": "2005-03-09T00:00:00",
+    "sinopsis": "Sinopsis de The Hedge Knight...",
+    "calificacionUsuarios": 4.0,
+    "img": "/src/assets/mock/thehedgeknight.jpg"
+  },
+  {
+    "id": 4,
+    "pais": "United Status",
+    "autor": "George R. R. Martin",
+    "isbn": "978-0553801507",
+    "name": "A Feast for Crows",
+    "nroPaginas": 784,
+    "released": "2005-11-08T00:00:00",
+    "sinopsis": "Sinopsis de A Feast for Crows...",
+    "calificacionUsuarios": 4.2,
+    "img": "/src/assets/mock/afeastforcrows.jpg"
+  },
+  {
+    "id": 5,
+    "pais": "United States",
+    "autor": "George R. R. Martin",
+    "isbn": "978-0785126508",
+    "name": "The Sworn Sword",
+    "nroPaginas": 152,
+    "released": "2008-06-18T00:00:00",
+    "sinopsis": "Sinopsis de The Sworn Sword...",
+    "calificacionUsuarios": 3.9,
+    "img": "/src/assets/mock/astormofswords.jpg"
+  },
+  {
+    "id": 6,
+    "pais": "United States",
+    "autor": "George R. R. Martin",
+    "isbn": "978-0765360267",
+    "name": "The Mystery Knight",
+    "nroPaginas": 416,
+    "released": "2011-03-29T00:00:00",
+    "sinopsis": "Sinopsis de The Mystery Knight...",
+    "calificacionUsuarios": 4.1,
+    "img": "/src/assets/mock/mysteryknight.jpg"
+  },
+  {
+    "id": 7,
+    "pais": "United States",
+    "autor": "George R. R. Martin",
+    "isbn": "978-0553801477",
+    "name": "A Dance with Dragons",
+    "nroPaginas": 1040,
+    "released": "2011-07-12T00:00:00",
+    "sinopsis": "Sinopsis de A Dance with Dragons...",
+    "calificacionUsuarios": 4.7,
+    "img": "/src/assets/mock/dancewithdragons.jpg"
+  },
+  {
+    "id": 8,
+    "pais": "United States",
+    "autor": "George R. R. Martin",
+    "isbn": "978-0765332066",
+    "name": "The Princess and the Queen",
+    "nroPaginas": 784,
+    "released": "2013-12-03T00:00:00",
+    "sinopsis": "Sinopsis de The Princess and the Queen...",
+    "calificacionUsuarios": 4.4,
+    "img": "/src/assets/mock/theprinces.jpg"
+  },
+  {
+    "id": 9,
+    "pais": "United States",
+    "autor": "George R. R. Martin",
+    "isbn": "978-0345537263",
+    "name": "The Rogue Prince",
+    "nroPaginas": 832,
+    "released": "2014-06-17T00:00:00",
+    "sinopsis": "Sinopsis de The Rogue Prince...",
+    "calificacionUsuarios": 4.6,
+    "img": "/src/assets/mock/rogues.jpg"
+  },
+  {
+    "id": 10,
+    "pais": "United States",
+    "autor": "Elio Garcia",
+    "isbn": "978-0553805444",
+    "name": "The World of Ice and Fire",
+    "nroPaginas": 336,
+    "released": "2014-10-28T00:00:00",
+    "sinopsis": "Sinopsis de A Clash of Kings...",
+    "calificacionUsuarios": 4.3,
+    "img": "/src/assets/mock/theworldoficeandfire.jpg"
+  },  {
+    "id": 11,
+    "pais": "United States",
+    "autor": "George R. R. Martin",
+    "isbn": "978-0345533487",
+    "name": "A Knight of the Seven Kingdoms",
+    "nroPaginas": 368,
+    "released": "2015-10-06T00:00:00",
+    "sinopsis": "Sinopsis de A Clash of Kings...",
+    "calificacionUsuarios": 4.8,
+    "img": "/src/assets/mock/aknightofthesevenkingdoms.jpg"
+  }
+]
+}

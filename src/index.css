@@ -1,0 +1,139 @@
+/* General */
+body {
+  background-image: url("/src/assets/got.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0 ;
+  margin: 0; 
+}
+/*-------------------------- */
+
+/* Navbar */
+.nav-container{
+  display:flex;
+  background-color: #252525;
+  height: 50px;
+  
+}
+.logo {
+  width: 200px;
+  height: auto;
+  color: #c2b032;
+}
+.logo-container{
+  display: flex;
+  align-items: center;
+  padding-right: 20px;
+  margin-left: auto;
+}
+/*-------------------------- */
+
+/* Landing */
+.text-center {
+  text-align: center;
+}
+.container {
+margin: 60px 50px 0 
+}
+.container-form{
+  margin: 0 20%;
+}
+.img-wrapper {
+  position: relative;
+  display: inline-block;
+  margin: 20px;
+}
+.img-wrapper:hover .img {
+  opacity: 0.7;
+}
+.img-wrapper:hover .hover {
+  opacity: 2;
+}
+.img {
+  text-align: center;
+  margin: 30px;
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 1px solid var(--medium);
+}
+.hover {
+  transition: 0.2s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+.text {
+  color: #ffffff;
+  font-size: 30px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+  white-space: nowrap;
+}
+
+/*-------------------------- */
+
+
+/* Tabla */
+.input-container{
+  display: flex;
+  margin: 0 auto ;
+
+}
+.title-container{
+  margin: 0 10%
+}
+.table-container {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; 
+  margin: 0 auto; 
+}
+
+table{
+  opacity: 0.5;
+  background-color: #c9c9c9;
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;;
+  border: 1px solid #ddd;
+}
+thead{
+  background: #333;
+  color: white;
+}
+th, td{
+  text-align: left;
+  padding: 14px;
+}
+tr:nth-child(even){
+  background: #f2f2f2;
+}
+/*-------------------------- */
+
+
+.info-img{
+  max-width: 225px;
+  max-height: 350px;
+}
+
+/* style */
+.color-default{
+  color: #ffffff;
+}
+.color-blue{
+  color: #778ba2;
+}
+/*-------------------------- */
