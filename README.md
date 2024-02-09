@@ -88,17 +88,15 @@ En general, cada elección técnica se basó en la eficiencia, la claridad del c
 Asegúrate de tener [Node.js](https://nodejs.org/) instalado en tu máquina.
 
 1. Clona este repositorio:
+  git clone git clone https://tu-repositorio.git
 
-   ```bash
-   git clone https://tu-repositorio.git
-
-2. Navega al directorio del proyecto
+3. Navega al directorio del proyecto
    cd game-of-thrones-books-explorer
 
-3. Instala las dependencias:
+4. Instala las dependencias:
    npm install
 
-4. Inicia la aplicación:
+5. Inicia la aplicación:
    npm run dev
 
 Este comando utiliza Vite para iniciar el servidor de desarrollo y compilar tu aplicación. Luego, puedes abrir tu navegador y acceder a la URL proporcionada en la terminal, por lo general, http://localhost:3000 para ver tu aplicación en acción.
